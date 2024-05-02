@@ -1,12 +1,18 @@
 Documentación básica de configuración y operación (NODE.JS)
 
 Configuración inicial
+
 Asegúrate de tener instaladas las siguientes dependencias en tu proyecto:
+
 •	npm install
 
 Ejecución
+
 Para ejecutar el servidor, simplemente ejecuta el siguiente comando en la terminal en la raíz de tu proyecto:
+
 •	node index.js 
+
+
 El servidor estará disponible en [http://localhost:3001](http://localhost:3001) (o en el puerto especificado en tu variable de entorno PORT)
 
 Documentación básica de configuración y operación (React.JS)
